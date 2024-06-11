@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Classic T-Shirt",
+      "imgUrl": "https://i.ebayimg.com/images/g/4IsAAOSwpddgqEwp/s-l1200.jpg",
+      "description": "A classic t-shirt made from 100% organic cotton.",
+      "price": 19.99,
+      "category_id": 1,
+      "stock": 50
+    },
+    {
+      "name": "Premium Outerwear Jacket",
+      "imgUrl": "https://media.gq.com/photos/65301482bf17d64221c0f202/3:4/w_748%2Cc_limit/Layer_5.jpg",
+      "description": "A premium jacket perfect for the cold season.",
+      "price": 99.99,
+      "category_id": 2,
+      "stock": 20
+    },
+    {
+      "name": "Casual Pants",
+      "imgUrl": "https://i.ebayimg.com/images/g/VaAAAOSwRfZj4y40/s-l1200.jpg",
+      "description": "Comfortable casual pants for everyday wear.",
+      "price": 39.99,
+      "category_id": 3,
+      "stock": 100
+    },
+    {
+      "name": "Sport Shorts",
+      "imgUrl": "https://dynamic.zacdn.com/CC0XKoeuZkm3Ln8oDOLYpGFyEbw=/filters:quality(70):format(webp)/https://static-my.zacdn.com/p/defacto-2808-4631543-1.jpg",
+      "description": "Lightweight shorts for sports and activities.",
+      "price": 29.99,
+      "category_id": 4,
+      "stock": 60
+    },
+    {
+      "name": "Graphic T-Shirt",
+      "imgUrl": "https://images.lifestyleasia.com/wp-content/uploads/sites/2/2022/01/31163017/Trendy-vintage-graphic-tees-in-Hong-Kong.jpg",
+      "description": "A t-shirt with a cool graphic design.",
+      "price": 24.99,
+      "category_id": 1,
+      "stock": 40
+    },
+    {
+      "name": "Windbreaker Outerwear",
+      "imgUrl": "https://i.ebayimg.com/images/g/qRIAAOSwILtlLb0M/s-l1200.webp",
+      "description": "A stylish windbreaker for windy days.",
+      "price": 59.99,
+      "category_id": 2,
+      "stock": 30
+    },
+    {
+      "name": "Formal Pants",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcs1ucnFyS3UGw9j-syDYiKNZoSP1zKVegMA&s",
+      "description": "Elegant pants for formal occasions.",
+      "price": 49.99,
+      "category_id": 3,
+      "stock": 70
+    },
+    {
+      "name": "Denim Shorts",
+      "imgUrl": "https://images.napali.app/global/quiksilver-products/all/default/large/aqyds03000_quiksilver,f_bsp0_frt1.jpg",
+      "description": "Stylish denim shorts for casual outings.",
+      "price": 34.99,
+      "category_id": 4,
+      "stock": 80
+    },
+    {
+      "name": "Vintage T-Shirt",
+      "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/index-vintage-6436fc7fcf3d9.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*",
+      "description": "A vintage style t-shirt with a retro look.",
+      "price": 22.99,
+      "category_id": 1,
+      "stock": 50
+    },
+    {
+      "name": "Heavy Duty Outerwear",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmDGBvQWl1qDZRzhxIIGEzYRzNFSdxRNL2A&s",
+      "description": "Heavy duty jacket for extreme conditions.",
+      "price": 129.99,
+      "category_id": 2,
+      "stock": 15
+    }
+  ]
+  
